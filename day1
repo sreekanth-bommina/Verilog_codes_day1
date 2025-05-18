@@ -1,4 +1,4 @@
-//Encoder
+//Codes for encoder,Full adder and 2bit Multiplier in txt
 
 //with if condition 
 module pri_enc(input [7:0]i,output reg [2:0]y);
